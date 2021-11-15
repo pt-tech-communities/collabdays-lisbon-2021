@@ -29,7 +29,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 
 * Approvals in Microsoft Teams - Marcin Siewnicki
 * Implementing Microsoft Teams lifecycle governance to stop Team sprawl - Nikki Chapple
-* Building digital workplaces with Dataverse for Microsoft Teams - Tomasz Poszytek
+* [Building digital workplaces with Dataverse for Microsoft Teams - Tomasz Poszytek](presentations/TPoszytek_Building-Digital-Workplaces-With-Dataverse-For-Team_CollabDays-Lisbon.pptx)
 * [Superpowers in Teams thanks to Messaging Extensions - Ferran Chopo](presentations/Superpowers-Teams-Messaging-Extensions.pptx)
 * Teams and Data Loss Protection: How to ensure secure and compliant collaboration in Microsoft Teams - Kat Greenan
 
