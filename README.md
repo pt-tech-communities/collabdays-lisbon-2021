@@ -44,7 +44,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 
 ## Track Microsoft Viva
 
-* [Microsoft Viva – A Plain Speaking Overview - Sara Fennah](https://github.com/pt-tech-communities/collabdays-lisbon-2021)
+* [Microsoft Viva – A Plain Speaking Overview - Sara Fennah](https://eur01.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2Ffennah.sharepoint.com%2F%3Ap%3A%2Fs%2FTrainMats%2FEYaLvrp0-O5FiwUqqy53kekBGuypGzGsnTHX_TU34PWL-g%3Fe%3DX58VHq&data=04%7C01%7Ctiago.costa%40tiagocosta.com%7C9d5ca4b51fe745e67d9d08d9a69540df%7C71e4d398fb3842b4ab29f403a5565c0c%7C0%7C0%7C637723982245840199%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=eA8W4K%2BB6Y%2BpdiYSbYpUE3%2FN1ba0q1Jau2gxfnhdBj4%3D&reserved=0)
 * Viva Teams! Enhance Employee Experience with Teams Extensions - Bill Ayers
 * SharePoint Syntex + Viva Topics: Better together - Ángel David Carrillo
 * Using SPFx to create your own Microsoft Viva Connection dashboard cards - David Ramalho
