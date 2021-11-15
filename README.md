@@ -1,12 +1,15 @@
 # Collabdays Lisbon 2021
+
 Repository to share all presentations of Collabdays Lisbon 2020
 
 You can find the videos at our [YouTube channel](https://www.youtube.com/channel/UChW7lEm7McjhGev_3XoV9DA)
 
 ## Welcome
+
 * [Welcome Session](presentations/CollabDaysLisbon-Welcome.pdf)
 
 ## Track Azure
+
 * The Toolshed: Inside Microsoft Azure TOOLS: Your daily hammers - Mike Martin
 * Implementing an Event Sourcing strategy on Azure - Eldert Grootenboer and Olena Borzenko
 * Why Should Security Hygiene Be Your Number One Priority? - Bojan Magusic
@@ -14,6 +17,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 * Work with Azure Virtual Desktop like a Pro - Marcel Meurer
 
 ## Track Microsoft 365
+
 * Enterprise Compliance: Insider Risk Management in Microsoft 365 from the field - Raphael Koellner
 * Zero Admins - Zero Problems - Sami Laiho
 * "I'm in fileshare hell - how do I get out?" - Zoe Wilson and Luke Evans
@@ -22,6 +26,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 * Microsoft Graph API like a rockstar - Giuliano De Luca
 
 ## Track Microsoft Teams
+
 * Approvals in Microsoft Teams - Marcin Siewnicki
 * Implementing Microsoft Teams lifecycle governance to stop Team sprawl - Nikki Chapple
 * Building digital workplaces with Dataverse for Microsoft Teams - Tomasz Poszytek
@@ -29,7 +34,8 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 * Teams and Data Loss Protection: How to ensure secure and compliant collaboration in Microsoft Teams - Kat Greenan
 
 ## Track Power Platform
-* AI 101 - Options for using AI in the Power Platform - Julian Sharp
+
+* [AI 101 - Options for using AI in the Power Platform - Julian Sharp](presentations/AI%20101%20-%20Options%20for%20using%20AI%20in%20the%20Power%20Platform.pdf)
 * Empower Your business with Power Automate’s Desktop RPA Solutions - Mihail Mateev
 * Tips and tricks to customise SharePoint/Microsoft Lists forms using PowerApps - Michel Mendes
 * A Beginners Guide to Creating Custom Connectors for Power Apps and Power Automate - Eric Shupps
@@ -37,7 +43,8 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 * Use Power Platform and Microsoft 365 to establish learning process in your organization - Dawid Ziolkowski
 
 ## Track Microsoft Viva
-* Microsoft Viva – A Plain Speaking Overview - Sara Fennah
+
+* [Microsoft Viva – A Plain Speaking Overview - Sara Fennah](https://github.com/pt-tech-communities/collabdays-lisbon-2021)
 * Viva Teams! Enhance Employee Experience with Teams Extensions - Bill Ayers
 * SharePoint Syntex + Viva Topics: Better together - Ángel David Carrillo
 * Using SPFx to create your own Microsoft Viva Connection dashboard cards - David Ramalho
