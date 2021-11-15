@@ -37,7 +37,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 
 * [AI 101 - Options for using AI in the Power Platform - Julian Sharp](presentations/AI%20101%20-%20Options%20for%20using%20AI%20in%20the%20Power%20Platform.pdf)
 * Empower Your business with Power Automate’s Desktop RPA Solutions - Mihail Mateev
-* [Tips and tricks to customise SharePoint/Microsoft Lists forms using PowerApps - Michel Mendes] (presentations/Tips%20and%20tricks%20to%20customize%20SharePoint%20Lists%20forms%20Using%20Power%20Apps.pdf)
+* [Tips and tricks to customise SharePoint/Microsoft Lists forms using PowerApps - Michel Mendes](presentations/Tips%20and%20tricks%20to%20customize%20SharePoint%20Lists%20forms%20Using%20Power%20Apps.pdf)
 * A Beginners Guide to Creating Custom Connectors for Power Apps and Power Automate - Eric Shupps
 * Power BI API Extravaganza! - Rui Romano
 * Use Power Platform and Microsoft 365 to establish learning process in your organization - Dawid Ziolkowski
