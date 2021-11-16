@@ -14,7 +14,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 * Implementing an Event Sourcing strategy on Azure - Eldert Grootenboer and Olena Borzenko
 * Why Should Security Hygiene Be Your Number One Priority? - Bojan Magusic
 * Azure Active Directory best practices from the field - Mustafa Toroman and Sasha Kranjac
-* Work with Azure Virtual Desktop like a Pro - Marcel Meurer
+* [Work with Azure Virtual Desktop like a Pro - Marcel Meurer](presentations/Work%20with%20AVD%20like%20a%20Pro.pdf)
 
 ## Track Microsoft 365
 
