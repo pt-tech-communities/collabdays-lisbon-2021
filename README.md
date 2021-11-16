@@ -22,7 +22,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 * Zero Admins - Zero Problems - Sami Laiho
 * "I'm in fileshare hell - how do I get out?" - Zoe Wilson and Luke Evans
 * From Zero to Hero: how to successfully apply Microsoft Adoption tools to your project - Antje Lamartine
-* Securely connect to SharePoint online from Azure Function - Joel Rodrigues
+* [Securely connect to SharePoint online from Azure Function - Joel Rodrigues](presentations/Joel%20Rodrigues%20-%20Authentication%20in%20Azure%20Functions.pptx)
 * Microsoft Graph API like a rockstar - Giuliano De Luca
 
 ## Track Microsoft Teams
