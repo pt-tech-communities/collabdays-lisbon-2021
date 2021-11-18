@@ -10,7 +10,7 @@ You can find the videos at our [YouTube channel](https://www.youtube.com/channel
 
 ## Track Azure
 
-* The Toolshed: Inside Microsoft Azure TOOLS: Your daily hammers - Mike Martin
+* [The Toolshed: Inside Microsoft Azure TOOLS: Your daily hammers - Mike Martin](presentations/collabdays_Toolshed.pptx)
 * Implementing an Event Sourcing strategy on Azure - Eldert Grootenboer and Olena Borzenko
 * Why Should Security Hygiene Be Your Number One Priority? - Bojan Magusic
 * Azure Active Directory best practices from the field - Mustafa Toroman and Sasha Kranjac
